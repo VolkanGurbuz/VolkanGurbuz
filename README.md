@@ -1,7 +1,9 @@
 ### Hi there 👋
 
-[![VolkanGurbuz's github stats](https://github-readme-stats.vercel.app/api?username=volkangurbuz)](https://github.com/volkangurbuz/github-readme-stats)<!--
-**VolkanGurbuz/VolkanGurbuz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![VolkanGurbuz's github stats](https://github-readme-stats.vercel.app/api?username=volkangurbuz)]
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=volkangurbuz&layout=compact)](https://github.com/volkangurbuz/github-readme-stats)
+
 
 Here are some ideas to get you started:
 
