@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![VolkanGurbuz's github stats](https://github-readme-stats.vercel.app/api?username=volkangurbuz)]
+[![VolkanGurbuz's github stats](https://github-readme-stats.vercel.app/api?username=volkangurbuz)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=volkangurbuz&layout=compact)](https://github.com/volkangurbuz/github-readme-stats)
 
