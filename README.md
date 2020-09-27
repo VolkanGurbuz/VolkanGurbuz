@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-(https://github-readme-stats.vercel.app/api?username=volkangurbuz)](https://github.com/volkangurbuz/github-readme-stats)
-
+![VolkanGurbuz's github stats](https://github-readme-stats.vercel.app/api?username=volkangurbuz&hide=contribs,prs)
 <!--
 **VolkanGurbuz/VolkanGurbuz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
