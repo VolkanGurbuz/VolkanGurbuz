@@ -4,7 +4,7 @@ I'm a Java Developer, working in Germany. See you around! 👋
 
 Here are some ideas to get you started:
 
-- 🌱 I’m currently learning Kubernetes
+- 🌱 I’m currently learning Kubernetes and JS
 - 💬 Ask me about anything [here](https://github.com/volkangurbuz/volkangurbuz/issues)
 -->
 
