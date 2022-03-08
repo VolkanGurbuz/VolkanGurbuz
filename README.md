@@ -6,7 +6,7 @@ I'm a Software Engineer with a wide variety of project experience in multiple ve
 
 "A friendly, mature, and flexible individual enjoying working in both his own initiative and in a team. Pretty willing to learn and develop himself at all time.”
  
-### You can find me on:
+### You can reach me on:
 
 <div align="center">
 <a href="https://www.linkedin.com/in/volkan-gurbuz/">
