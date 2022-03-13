@@ -20,7 +20,6 @@ I'm a Software Engineer with a wide variety of project experience in multiple ve
 
 
 ### 👩‍💻 Selected Languages and Tools
-
 <div>
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
@@ -33,7 +32,6 @@ I'm a Software Engineer with a wide variety of project experience in multiple ve
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
 <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
 </div>
-
 and many more
 
 ---
